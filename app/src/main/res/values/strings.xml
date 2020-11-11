@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BookLibrary</string>
+    <string name="ButtonText">Add</string>
+    <string name="title">Title</string>
+    <string name="author_name">Author Name</string>
+    <string name="pages_num">100</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="id_num">1</string>
+    <string name="add_enter_title">Enter Book Title</string>
+    <string name="add_enter_author">Enter Book Author</string>
+    <string name="add_enter_pages">Enter Book Pages</string>
+    <string name="no_data_n_please_insert_your_books">No Data \n Please Insert Your Books</string>
+    <string name="search_here">Search Books</string>
+</resources>
